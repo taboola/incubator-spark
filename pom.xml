@@ -25,7 +25,7 @@
   </parent>
   <groupId>org.apache.spark</groupId>
   <artifactId>spark-parent</artifactId>
-  <version>0.8.0-incubating</version>
+  <version>0.8.0-incubating-taboola-patched</version>
   <packaging>pom</packaging>
   <name>Spark Project Parent POM</name>
   <url>http://spark.incubator.apache.org/</url>
@@ -37,10 +37,10 @@
     </license>
   </licenses>
   <scm>
-    <connection>scm:git:git@github.com:apache/incubator-spark.git</connection>
+    <connection>scm:git:git@github.com:taboola/incubator-spark.git</connection>
     <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/incubator-spark.git</developerConnection>
     <url>scm:git:git@github.com:apache/incubator-spark.git</url>
-    <tag>v0.8.0-incubating</tag>
+    <tag>v0.8.0-incubating-patched</tag>
   </scm>
   <developers>
     <developer>
