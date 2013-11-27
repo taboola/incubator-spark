@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 26 23:05:31 IST 2013
+spark-assembly_2.9.3-0.8.0-incubating-taboola-patched.pom>=
+spark-assembly_2.9.3-0.8.0-incubating-taboola-patched-sources.jar>=
+spark-assembly_2.9.3-0.8.0-incubating-taboola-patched.jar>=

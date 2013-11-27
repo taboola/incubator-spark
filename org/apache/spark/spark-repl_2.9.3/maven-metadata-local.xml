@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.spark</groupId>
+  <artifactId>spark-repl_2.9.3</artifactId>
+  <versioning>
+    <release>0.8.0-incubating-taboola-patched</release>
+    <versions>
+      <version>0.8.0-incubating-taboola-patched</version>
+    </versions>
+    <lastUpdated>20131126210514</lastUpdated>
+  </versioning>
+</metadata>
