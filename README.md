@@ -1,4 +1,4 @@
-# Apache Spark
+# Apache Spark - cherry picked bc8479175a60c2dfa1dc5cdf10b79be90a6c20a8 for eclipse support
 
 Lightning-Fast Cluster Computing - <http://spark.incubator.apache.org/>
 
